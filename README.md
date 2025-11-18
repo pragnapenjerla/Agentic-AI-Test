@@ -1,1 +1,11 @@
-# Agentic AI Test\n\nThis repository was created to test GitHub MCP (Model Context Protocol) integration.\n\n## About\n\nGitHub MCP has been successfully added to VS Code! \n\nThis repository demonstrates:\n- Automated repository creation via GitHub API\n- File creation through MCP tools\n- Integration between VS Code and GitHub using MCP\n\n## Created\n- Date: 4/11/2025\n- Via: GitHub MCP Server in VS Code\n- Tool: Model Context Protocol\n\n---\n*This README was automatically generated using GitHub MCP tools.*
+## Agentic AI Test
+This repository was created to test GitHub MCP (Model Context Protocol) integration.
+## About
+GitHub MCP has been successfully added to VS Code! 
+This repository demonstrates:\n- Automated repository creation via GitHub API
+- File creation through MCP tools
+- Integration between VS Code and GitHub using MCP\n\n## Created
+-  Date: 4/11/2025
+-   Via: GitHub MCP Server in VS Code
+-    Tool: Model Context Protocol
+  
